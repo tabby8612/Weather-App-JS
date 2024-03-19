@@ -13,6 +13,7 @@ It uses following JS features:
 - and others...
 
 Here are application screenshots:
+
 <img src="images/Screenshot.jpg">
 
 Feel free to use it for learning and don't forget to give it star or fork it. Thanks.
